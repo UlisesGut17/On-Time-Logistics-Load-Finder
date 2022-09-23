@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class lol {
+public class loadFinder {
 
     public static void main(String[] args) throws FileNotFoundException {
     	/*We create the prefix and suffix that we will use to look for the load 
